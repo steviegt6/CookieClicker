@@ -1,1 +1,3 @@
-Cookie Clicker is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Cookie Clicker ported to Terraria!
+
+This mod is entirely client-side, meaning that you can play with this mod enabled, even if a server you're playing on doesn't have it enabled. It does not add any actual items. This mod is purely for fun, such as while you're waiting for night time.
