@@ -1,3 +1,6 @@
-Cookie Clicker ported to Terraria!
+Cookie Clicker, ported to Terraria!
 
-This mod is entirely client-side, meaning that you can play with this mod enabled, even if a server you're playing on doesn't have it enabled. It does not add any actual items. This mod is purely for fun, such as while you're waiting for night time.
+This mod ports the basic features of Cookie Clicker to Terraria (cookies, the store, upgrades, sugar lumps, etc.)!
+Data is saved per player, and you can't reset your progress on players.
+This mod also has achievements (which are saved separately from players)! You can view them on the main menu!
+This mod doesn't add any actual content to the game, it's just a fun little mod to pass the time. :P

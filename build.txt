@@ -1,4 +1,4 @@
 displayName = Cookie Clicker
 author = convicted tomatophile (Stevie)
 version = 1.0.0
-side = client
+side = both
